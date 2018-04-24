@@ -4,7 +4,7 @@
 과일을 판매하는 과일센터
 
 
-### Actions
+## Actions
 * 과일 등록
   * 과일 스펙에 맞는 과일을 등록합니다.
 * 과일 입고
@@ -29,7 +29,7 @@
 
 
 
-### Structure
+## Structure
 
 * server
   *  vo : Folder about rendering data
