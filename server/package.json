@@ -1,0 +1,18 @@
+{
+  "name": "fruit",
+  "version": "1.0.0",
+  "description": "Fruit Store",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test.js"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "moment": "^2.19.1",
+    "pg": "^7.3.0",
+    "restify": "^6.2.3",
+    "restify-errors": "^6.0.0"
+  }
+}
